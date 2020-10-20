@@ -74,6 +74,7 @@ section h3 {
     border-right: 1.5px solid;
     border-bottom: 3px solid;
     outline : 0;
+    font-family: 'Bai Jamjuree', sans-serif;
 }
 .div-button button:first-of-type {
     background-color:hsl(171, 66%, 44%);
